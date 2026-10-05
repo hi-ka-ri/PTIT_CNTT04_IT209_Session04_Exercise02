@@ -2,5 +2,5 @@
 
 
 
-Nội dung ban đầu trên nhánh main.
+Nội dung được phát triển trên nhánh feature-update.
 
