@@ -1,6 +1,4 @@
-\# Bài 2 - Quản lý nhánh và Merge Conflict
+git add README.md
 
-
-
-Nội dung ban đầu trên nhánh main.
+git commit -m "Update README on main branch"
 
